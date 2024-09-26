@@ -1,0 +1,44 @@
+# CETCS_Shared / Level_05 / CST8237_Game_Programming 
+#
+# NOTE:
+# To be placed in a repo that contains all your Unreal Projects
+
+*
+
+!.gitignore
+
+# Un-ignore directories
+!UE5Lab1/
+#!UE5Lab2
+#!UE5Lab3
+#!UE5Lab4
+#!UE5Assignment1
+#!UE5Assignment2
+
+# Keep deliverable folders
+!**/Config/
+!**/Content/
+!**/Source/
+
+# Keep deliverable files 
+!**/Config/**
+!**/Content/**
+!**/Source/**
+
+# Track Unreal Project files
+!*.uproject
+!**/*.uproject
+
+# Keep batch scripts
+!*.bat
+!**/*.bat
+
+# Other assets
+!*.png
+!**/*.png
+!*.uxf
+!**/*.uxf
+
+# Markdown files (eg. README)
+!*.md
+!**/*.md

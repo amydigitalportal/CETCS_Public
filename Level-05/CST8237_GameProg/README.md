@@ -1,5 +1,10 @@
 ﻿# CST 8237 - Game Programming (2024 Fall)
 
+## NOTE to STUDENTS!
+- (Optional) If using `ZIP_DELIVERABLES`, make sure to MODIFY the following line (near the top):
+`set "studentCode=abcd0000"`
+... so that it matches your student email ID!
+
 ### Summary of scripts
 
 - `CLEAN_SCRIPT`: This **deletes** all files & folders EXCEPT for the specified deliverables (ie. Config/, Content/, Source/, *.uproject).

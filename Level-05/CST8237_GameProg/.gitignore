@@ -3,11 +3,12 @@
 # NOTE:
 # To be placed in a repo that contains all your Unreal Projects
 
+# Ignore all files, except...
 *
-
+# This file ...
 !.gitignore
 
-# Un-ignore directories
+# Un-ignore directories. Define your game projects here.
 !UE5Lab1/
 #!UE5Lab2
 #!UE5Lab3
